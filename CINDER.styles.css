@@ -113,12 +113,7 @@ footer .icon{
         0% { font-variation-settings: "TIME" 1; }
     }
 
-    @media (prefers-reduced-motion: reduce) {
-        .icon {
-            -webkit-animation: none;
-                    animation: none;
-        }
-    }
+   
 /* --------------- END USER PREFERS REDUCED MOTION QUERY --------------- */
 
 
